@@ -501,8 +501,8 @@ FROM walmart_sales;
 
 #### Dashboard 1 — Walmart Executive Sales Overview
 
-![Executive Dashboard](<img width="1557" height="873" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f75f09c5-a035-450b-ba55-139d558eaf4d" />
-)
+![Executive Dashboard](Image/Dashboard 1.png)
+
 
 **KPI Cards:** Total Sales · Avg Weekly Sales · Avg Holiday Sales · Avg Non-Holiday Sales · Holiday Lift %
 
@@ -523,7 +523,7 @@ FROM walmart_sales;
 
 #### Dashboard 2 — Seasonality & Holiday Performance Analysis
 
-![Seasonality Dashboard](dashboards/Dashboard_2.png)
+![Seasonality Dashboard](Image/Dashboard 2.png)
 
 **Visuals:**
 - Matrix: Avg Weekly Sales by Month × Year (conditional formatting highlights peaks)
@@ -546,7 +546,7 @@ FROM walmart_sales;
 
 #### Dashboard 3 — External Market & Economic Impact Analysis
 
-![Economic Dashboard](dashboards/Dashboard_3.png)
+![Economic Dashboard](Image/Dashboard 3.png)
 
 **Visuals:**
 - Scatter: Sales vs Unemployment (risk zone highlighted at unemployment > 8%)
