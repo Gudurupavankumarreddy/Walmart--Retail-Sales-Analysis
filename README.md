@@ -501,7 +501,8 @@ FROM walmart_sales;
 
 #### Dashboard 1 — Walmart Executive Sales Overview
 
-![Executive Dashboard](dashboards/Dashboard_1.png)
+![Executive Dashboard](<img width="1557" height="873" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f75f09c5-a035-450b-ba55-139d558eaf4d" />
+)
 
 **KPI Cards:** Total Sales · Avg Weekly Sales · Avg Holiday Sales · Avg Non-Holiday Sales · Holiday Lift %
 
